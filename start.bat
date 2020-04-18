@@ -1,2 +1,0 @@
-node VOLFBOT.js
-pause
